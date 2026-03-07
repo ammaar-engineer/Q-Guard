@@ -1,6 +1,6 @@
 {
   "name": "@quanta-lib/q-guard",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Validator library engine - Lightweight and Fast",
   "main": "dist/zod-mini.js",
   "types": "src/zod-mini.ts",
